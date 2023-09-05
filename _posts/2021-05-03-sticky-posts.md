@@ -3,7 +3,7 @@ layout: post
 title: "vue笔记"
 author: "GG Bond"
 tags: Tutorial
-excerpt-separator: "vue一点点笔记"
+excerpt-separator: "vue笔记"
 ---
 
 ## Steps
