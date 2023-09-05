@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "vue笔记"
-author: "Chester"
+author: "GG Bond"
 tags: Tutorial
-excerpt_separator: <!--more-->
+excerpt-separator: "vue一点点笔记"
 ---
-vue一点点笔记
+
 ## Steps
 
 ### vue
