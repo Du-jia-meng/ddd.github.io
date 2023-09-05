@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sticky Posts"
+title: "vue笔记"
 author: "Chester"
 tags: Tutorial
 excerpt_separator: <!--more-->
