@@ -3,6 +3,10 @@ layout: default
 ---
 
 <div class="post">
+  {% if page.music-id %}
+    {% include cloud-music.html %}
+  {% endif %} 
+  {{ content }}
   <div class="post-info">
     <span>Written by</span>
     {% if page.author %}
